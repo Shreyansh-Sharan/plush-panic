@@ -2,7 +2,7 @@
 
 Squishy plush toys meet in a cosy attic, then play a Show of short, chaotic rounds where the field shrinks until one toy wears the crown. Trace a biscuit without cracking it, freeze when the music box stops, and knock rivals off a shrinking stool, all while flicking crumbs at your friends.
 
-Built with Three.js · Rapier physics · Custom rigged plush toys. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Three.js · Rapier physics · Custom rigged plush toys. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
